@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{fill:#f89c10;}.cls-2{fill:#f8eca0;}.cls-3{fill:#000400;}.cls-4{fill:#f8d0b0;}</style></defs><title>2</title><g id="Layer_2" data-name="Layer 2"><g id="_2" data-name="2"><polygon class="cls-1" points="13 9 13 8 10 8 10 9 9 9 9 13 10 13 10 14 13 14 13 13 14 13 14 9 13 9"/><polygon class="cls-2" points="9 8 9 0 8 0 7 0 0 0 0 16 7 16 8 16 9 16 9 14 8 14 8 8 9 8"/><rect class="cls-2" x="15" width="1" height="8"/><rect class="cls-2" x="15" y="14" width="1" height="2"/><path class="cls-3" d="M15,8V0H14V7H10V0H9V8H8v6H9v2h1V15h4v1h1V14h1V8Zm-2,5v1H10V13H9V9h1V8h3V9h1v4Z"/><polygon class="cls-3" points="13 9 12 9 12 12 11 12 11 13 13 13 13 12 13 9"/><rect class="cls-4" x="10" width="4" height="7"/><rect class="cls-4" x="10" y="15" width="4" height="1"/><rect class="cls-4" x="9" y="9" width="1" height="2"/><rect class="cls-4" x="10" y="8" width="1" height="1"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-3{fill:#000400}
+        </style>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="_2" data-name="2">
+            <path fill="#f89c10" d="M13 9V8h-3v1H9v4h1v1h3v-1h1V9h-1z"/>
+            <path d="M9 8V0H0v16h9v-2H8V8h1zm6-8h1v8h-1zm0 14h1v2h-1z" fill="#f8eca0"/>
+            <path class="cls-3" d="M15 8V0h-1v7h-4V0H9v8H8v6h1v2h1v-1h4v1h1v-2h1V8zm-2 5v1h-3v-1H9V9h1V8h3v1h1v4z"/>
+            <path class="cls-3" d="M13 9h-1v3h-1v1h2V9z"/>
+            <path d="M10 0h4v7h-4zm0 15h4v1h-4zM9 9h1v2H9zm1-1h1v1h-1z" fill="#f8d0b0"/>
+        </g>
+    </g>
+</svg>

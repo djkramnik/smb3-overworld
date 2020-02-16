@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{fill:#f8fcf8;}.cls-2{fill:#000400;}.cls-3{fill:#f8eca0;}</style></defs><title>25</title><g id="Layer_2" data-name="Layer 2"><g id="_25" data-name="25"><rect class="cls-1" x="1" y="1" width="14" height="14"/><polygon class="cls-2" points="12 5 11 5 11 4 10 4 10 3 9 3 9 2 7 2 7 3 6 3 6 4 5 4 5 5 4 5 4 7 3 7 3 11 4 11 4 12 5 12 6 12 7 12 7 13 5 13 5 14 7 14 9 14 11 14 11 13 9 13 9 12 10 12 11 12 12 12 12 11 13 11 13 7 12 7 12 5"/><path class="cls-2" d="M0,0V16H16V0ZM15,14H14v1H2V14H1V2H2V1H14V2h1Z"/><rect class="cls-3" width="1" height="1"/><rect class="cls-3" x="15" width="1" height="1"/><rect class="cls-3" x="15" y="15" width="1" height="1"/><rect class="cls-3" y="15" width="1" height="1"/><polygon class="cls-1" points="9 6 9 8 8 8 8 7 7 7 7 6 6 6 6 11 7 11 7 9 8 9 8 10 9 10 9 11 10 11 10 6 9 6"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-1{fill:#f8fcf8}.cls-2{fill:#000400}
+        </style>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="_25" data-name="25">
+            <path class="cls-1" d="M1 1h14v14H1z"/>
+            <path class="cls-2" d="M12 5h-1V4h-1V3H9V2H7v1H6v1H5v1H4v2H3v4h1v1h3v1H5v1h6v-1H9v-1h3v-1h1V7h-1V5z"/>
+            <path class="cls-2" d="M0 0v16h16V0zm15 14h-1v1H2v-1H1V2h1V1h12v1h1z"/>
+            <path d="M0 0h1v1H0zm15 0h1v1h-1zm0 15h1v1h-1zM0 15h1v1H0z" fill="#f8eca0"/>
+            <path class="cls-1" d="M9 6v2H8V7H7V6H6v5h1V9h1v1h1v1h1V6H9z"/>
+        </g>
+    </g>
+</svg>

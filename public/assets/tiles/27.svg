@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{fill:#f8eca0;}.cls-2{fill:#f89c10;}.cls-3{fill:#000400;}.cls-4{fill:#f8d0b0;}</style></defs><title>27</title><g id="Layer_2" data-name="Layer 2"><g id="_27" data-name="27"><rect class="cls-1" width="16" height="16"/><rect class="cls-2" x="9" y="9" width="5" height="6"/><polygon class="cls-3" points="15 9 15 8 15 0 14 0 14 8 10 8 10 0 9 0 9 8 0 8 0 9 8 9 8 10 8 12 0 12 0 13 8 13 8 14 9 14 9 10 10 10 10 9 13 9 13 10 14 10 14 14 13 14 13 15 10 15 10 14 9 14 9 16 10 16 15 16 15 15 16 15 16 10 16 9 15 9"/><polygon class="cls-3" points="12 13 11 13 11 14 12 14 13 14 13 10 12 10 12 13"/><rect class="cls-4" x="10" width="4" height="8"/><rect class="cls-4" y="9" width="8" height="3"/><rect class="cls-4" x="9" y="10" width="1" height="2"/><rect class="cls-4" x="10" y="9" width="1" height="1"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-3{fill:#000400}
+        </style>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="_27" data-name="27">
+            <path fill="#f8eca0" d="M0 0h16v16H0z"/>
+            <path fill="#f89c10" d="M9 9h5v6H9z"/>
+            <path class="cls-3" d="M15 9V0h-1v8h-4V0H9v8H0v1h8v3H0v1h8v1h1v-4h1V9h3v1h1v4h-1v1h-3v-1H9v2h6v-1h1V9h-1z"/>
+            <path class="cls-3" d="M12 13h-1v1h2v-4h-1v3z"/>
+            <path d="M10 0h4v8h-4zM0 9h8v3H0zm9 1h1v2H9zm1-1h1v1h-1z" fill="#f8d0b0"/>
+        </g>
+    </g>
+</svg>

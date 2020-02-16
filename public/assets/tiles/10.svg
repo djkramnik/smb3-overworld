@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 15"><defs><style>.cls-1{fill:#f89c10;}.cls-2{fill:#d03000;}.cls-3{fill:#000400;}</style></defs><title>10</title><g id="Layer_2" data-name="Layer 2"><g id="_10" data-name="10"><rect class="cls-1" x="4" y="4" width="4" height="3"/><rect class="cls-1" x="10" y="4" width="5" height="3"/><rect class="cls-1" x="5" y="9" width="1" height="1"/><rect class="cls-1" x="6" y="8" width="2" height="1"/><rect class="cls-1" x="8" y="7" width="1" height="1"/><rect class="cls-1" x="2" y="11" width="4" height="3"/><rect class="cls-2" x="1" y="1" width="3" height="3"/><polygon class="cls-2" points="4 6 2 6 2 8 1 8 1 11 3 11 3 10 4 10 4 9 5 9 5 7 4 7 4 6"/><polygon class="cls-2" points="13 2 13 1 11 1 9 1 9 2 8 2 8 5 10 5 10 4 11 4 11 3 13 3 15 3 15 2 13 2"/><polygon class="cls-3" points="3 3 4 3 4 2 5 2 5 0 2 0 2 2 3 2 3 3"/><rect class="cls-3" x="4" y="3" width="2" height="1"/><polygon class="cls-3" points="2 3 2 2 0 2 0 4 2 4 3 4 3 3 2 3"/><polygon class="cls-3" points="4 6 4 4 3 4 3 5 2 5 2 6 3 6 4 6"/><rect class="cls-3" x="1" y="6" width="1" height="2"/><rect class="cls-3" y="8" width="1" height="3"/><rect class="cls-3" x="4" y="6" width="1" height="1"/><polygon class="cls-3" points="5 9 4 9 4 10 3 10 3 11 2 11 1 11 1 12 2 12 2 13 3 13 3 12 4 12 4 11 5 11 5 13 6 13 6 10 5 10 5 9"/><polygon class="cls-3" points="2 14 2 13 1 13 1 15 2 15 6 15 7 15 7 13 6 13 6 14 2 14"/><rect class="cls-3" x="6" y="9" width="2" height="1"/><rect class="cls-3" x="8" y="8" width="1" height="1"/><rect class="cls-3" x="7" y="2" width="1" height="3"/><rect class="cls-3" x="8" y="1" width="1" height="1"/><rect class="cls-3" x="9" width="4" height="1"/><rect class="cls-3" x="13" y="1" width="2" height="1"/><polygon class="cls-3" points="15 2 15 3 11 3 11 4 12 4 12 5 13 5 13 4 15 4 15 7 16 7 16 2 15 2"/><polygon class="cls-3" points="10 6 11 6 11 4 10 4 10 5 8 5 8 6 7 6 7 7 6 7 5 7 5 9 6 9 6 8 8 8 8 7 9 7 9 8 15 8 15 7 10 7 10 6"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 15">
+    <defs>
+        <style>
+            .cls-3{fill:#000400}
+        </style>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="_10" data-name="10">
+            <path d="M4 4h4v3H4zm6 0h5v3h-5zM5 9h1v1H5zm1-1h2v1H6zm2-1h1v1H8zm-6 4h4v3H2z" fill="#f89c10"/>
+            <path d="M1 1h3v3H1zm3 5H2v2H1v3h2v-1h1V9h1V7H4V6zm9-4V1H9v1H8v3h2V4h1V3h4V2h-2z" fill="#d03000"/>
+            <path class="cls-3" d="M3 3h1V2h1V0H2v2h1v1zm1 0h2v1H4z"/>
+            <path class="cls-3" d="M2 3V2H0v2h3V3H2zm2 3V4H3v1H2v1h2zM1 6h1v2H1zM0 8h1v3H0zm4-2h1v1H4zm1 3H4v1H3v1H1v1h1v1h1v-1h1v-1h1v2h1v-3H5V9zm-3 5v-1H1v2h6v-2H6v1H2zm4-5h2v1H6zm2-1h1v1H8zM7 2h1v3H7zm1-1h1v1H8zm1-1h4v1H9zm4 1h2v1h-2zm2 1v1h-4v1h1v1h1V4h2v3h1V2h-1z"/>
+            <path class="cls-3" d="M10 6h1V4h-1v1H8v1H7v1H5v2h1V8h2V7h1v1h6V7h-5V6z"/>
+        </g>
+    </g>
+</svg>

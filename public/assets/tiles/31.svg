@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{fill:#f8eca0;}.cls-2{fill:#08d4f8;}.cls-3{fill:#28f030;}.cls-4{fill:#000400;}</style></defs><title>31</title><g id="Layer_2" data-name="Layer 2"><g id="_31" data-name="31"><rect class="cls-1" y="13" width="3" height="3"/><polygon class="cls-1" points="0 0 0 2 11 2 11 5 13 5 13 16 16 16 16 5 16 2 16 0 0 0"/><rect class="cls-2" y="6" width="12" height="6"/><rect class="cls-2" x="4" y="12" width="8" height="4"/><rect class="cls-3" y="2" width="2" height="1"/><polygon class="cls-3" points="13 3 11 3 11 2 7 2 7 1 2 1 2 2 6 2 6 3 10 3 10 4 12 4 12 5 13 5 13 4 13 3"/><polygon class="cls-3" points="14 9 14 7 15 7 15 6 14 6 14 5 13 5 13 8 12 8 12 12 13 12 13 16 14 16 14 15 15 15 15 14 14 14 14 11 13 11 13 9 14 9"/><rect class="cls-3" y="12" width="2" height="1"/><polygon class="cls-3" points="2 14 3 14 3 15 1 15 1 16 4 16 4 15 4 14 4 13 2 13 2 14"/><polygon class="cls-4" points="13 8 13 5 12 5 12 4 10 4 10 3 6 3 6 2 2 2 2 3 0 3 0 7 2 7 2 6 6 6 6 7 10 7 10 8 11 8 11 12 12 12 12 8 13 8"/><rect class="cls-4" x="12" y="12" width="1" height="4"/><rect class="cls-4" x="4" y="13" width="1" height="3"/><rect class="cls-4" x="2" y="12" width="2" height="1"/><rect class="cls-4" y="11" width="2" height="1"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <g data-name="Layer 2">
+        <g data-name="31">
+            <path d="M0 13h3v3H0zM0 0v2h11v3h2v11h3V0H0z" fill="#f8eca0"/>
+            <path d="M0 6h12v6H0zm4 6h8v4H4z" fill="#08d4f8"/>
+            <path d="M0 2h2v1H0zm13 1h-2V2H7V1H2v1h4v1h4v1h2v1h1V3zm1 6V7h1V6h-1V5h-1v3h-1v4h1v4h1v-1h1v-1h-1v-3h-1V9h1zM0 12h2v1H0zm2 2h1v1H1v1h3v-3H2v1z" fill="#28f030"/>
+            <path d="M13 8V5h-1V4h-2V3H6V2H2v1H0v4h2V6h4v1h4v1h1v4h1V8h1zm-1 4h1v4h-1zm-8 1h1v3H4zm-2-1h2v1H2zm-2-1h2v1H0z" fill="#000400"/>
+        </g>
+    </g>
+</svg>

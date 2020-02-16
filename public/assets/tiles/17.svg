@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{fill:#fff;}.cls-2{fill:#000400;}</style></defs><title>17</title><g id="Layer_2" data-name="Layer 2"><g id="_17" data-name="17"><rect class="cls-1" x="1" y="1" width="14" height="14"/><polygon class="cls-2" points="4 12 5 12 6 12 7 12 7 13 5 13 5 14 7 14 9 14 11 14 11 13 9 13 9 12 10 12 11 12 12 12 12 11 13 11 13 7 12 7 12 5 11 5 11 4 10 4 10 3 9 3 9 2 7 2 7 3 6 3 6 4 5 4 5 5 4 5 4 7 3 7 3 11 4 11 4 12"/><path class="cls-2" d="M0,0V16H16V0ZM15,15H1V1H15Z"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-2{fill:#000400}
+        </style>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="_17" data-name="17">
+            <path fill="#fff" d="M1 1h14v14H1z"/>
+            <path class="cls-2" d="M4 12h3v1H5v1h6v-1H9v-1h3v-1h1V7h-1V5h-1V4h-1V3H9V2H7v1H6v1H5v1H4v2H3v4h1v1z"/>
+            <path class="cls-2" d="M0 0v16h16V0zm15 15H1V1h14z"/>
+        </g>
+    </g>
+</svg>
