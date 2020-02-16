@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <g id="sprite43">
+    <g>
+      <rect fill="#f8eca0" width="16" height="16"/>
+      <polygon fill="#f89c10" points="13 9 13 8 11 8 11 9 10 9 10 10 9 10 9 12 10 12 10 13 11 13 13 13 13 12 14 12 14 9 13 9"/>
+      <path fill="#000400" d="M15,8V7H9V8H0V9H8v3H0v1H9v1h6V13h1V8Zm-1,4H13v1H10V12H9V9h1V8h3V9h1Z"/>
+      <polygon fill="#000400" points="12 9 12 11 11 11 11 12 12 12 13 12 13 9 12 9"/>
+      <rect fill="#f8d0b0" y="9" width="8" height="3"/>
+      <rect fill="#f8d0b0" x="9" y="9" width="1" height="1"/>
+      <rect fill="#f8d0b0" x="10" y="8" width="1" height="1"/>
+      <rect fill="#f8d0b0" y="14" x="10" width="4" height="2"/>
+      <rect fill="#000400" y="14" x="9" width="1" height="2" />
+      <rect fill="#000400" y="14" x="14" width="1" height="2" />
+    </g>
+  </g>
+</svg>
