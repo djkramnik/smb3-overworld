@@ -1,0 +1,10 @@
+.overworld-container {
+  background-color: #f8eca0;
+  border: 4px solid #fff;
+  margin: auto;
+  width: 672px;
+}
+
+.tile {
+  display: flex;
+}
