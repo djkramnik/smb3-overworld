@@ -2,6 +2,10 @@
 
 Experiment with creating an smb3 style overworld in React.
 
+![output](https://user-images.githubusercontent.com/4875848/74688165-a13f7b80-51a4-11ea-8f2b-cd771ebeea2f.gif)
+
+run `yarn` and `yarn start` after cloning if you wish to try it out.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
