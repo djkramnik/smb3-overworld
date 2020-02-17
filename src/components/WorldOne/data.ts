@@ -1,5 +1,8 @@
 export const symbolMap = {
+  'f': '/assets/tiles/3.svg',
   'h': '/assets/tiles/4.svg',
+  'i': '/assets/tiles/5.svg',
+  'j': '/assets/tiles/6.svg',
   '1': '/assets/tiles/18.svg',
   '2': '/assets/tiles/19.svg',
   '3': '/assets/tiles/20.svg',
