@@ -1,6 +1,7 @@
 ## SMB3 React overworld
 
-Experiment with creating an smb3 style overworld in React.
+Experiment with creating an smb3 style overworld in React.  I did not enjoy making this and this
+result is not particularly impressive.  If I try this again it will be with webgl.
 
 ![output](https://user-images.githubusercontent.com/4875848/74688165-a13f7b80-51a4-11ea-8f2b-cd771ebeea2f.gif)
 
